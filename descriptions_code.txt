@@ -1,0 +1,7 @@
+["pre_classic-1","pre_classic-b2","pre_classic-b3","pre_classic-b4","pre_classic-b4-5_4","pre_classic-b4-5_5"]
+Being the first version, this one did pretty good. There's a block that you can move around using wasd and arrow keys. The movement is weird but easy to get used to. You can even change the texture of of the block! It was a simple version but I really liked it! 7/10
+This update adds terrain generation! it generates 1 chunk with the blocks being either grass, dirt, or stone. The movement is the same, just slower. I feel like terrain generation is the first step to recreating Minecraft, so this update did good. 7.5/10
+This update adds chunk loading, hills, and mobile and controller support. This update actually looks like minecraft, which is really good. 8/10
+This update is similar to the last one, but with more customization, like changing the player speed. this isn't too much better than the last update. 8.2/10
+This update is insane. It does make the grass texture darker, but it also adds gravity. The classic moveset we all know and love. 9/10
+This update improves chunk loading. I've been playing this update a lot and can't tell what else was fixed. 9.1/10
