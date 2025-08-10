@@ -1,5 +1,0 @@
-Being the first version, this one did pretty good.
-There's a block that you can move the camera around using wasd and arrow keys.
-The movement is weird but easy to get used to.
-You can even change the texture of of the block!
-It was a simple version but I really liked it! 7/10
